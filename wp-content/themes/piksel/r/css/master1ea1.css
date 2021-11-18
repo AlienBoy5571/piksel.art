@@ -935,6 +935,7 @@ form fieldset.double input {
 }
 .main-menu-bottom .studio-time {
     flex-basis: 50%;
+    display: none;
 }
 .main-menu-close {
     position: absolute;
